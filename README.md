@@ -11,7 +11,7 @@ Summarizing the 30+ most common DS and Algorithm problems with Machine learning 
 | Activity Selection Problem | Greedy + Sorting(based on finish times) | -  | - | - |
 | Job Sequencing Problem | Greedy + Sorting(based on Profit) + best fill the time slots with max profits | -  | - | - |
 | Fractional KnapSack Problem | Greedy + Sorting(based on Value/Weight) | -  | - | - |
-| Clone a linkedlist with next, random pointers | Choosing right DataStructure | HashTable | - | - |
+| Clone a linkedlist with next, random pointers | Choosing right DataStructure | HashTable - Finding Duplication | - | - |
 
 
 
