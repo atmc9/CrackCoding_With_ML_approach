@@ -5,7 +5,7 @@ Summarizing the 30+ most common DS and Algorithm problems with Machine learning 
 
 | Problem Statement   | algorithm technique | + agumented technique | Data structure | Runtime Complexity | Space Complexity | 
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| -----:|
-| All Permutations of string 'abcd' | Greedy | + Cummulative results | - | - | - |
+| All Permutations of string 'abcd' | Greedy | Cummulative results | - | - | - |
 | Running Median Problem | Greedy |- |MaxHeap for left half, MinHeap for right half | - | - |
 | Haffman Coding | Greedy| MinHeap - get least two nodes and create tempNode | - | - |
 | Activity Selection Problem | Greedy | Sorting(based on finish times) | -  | - | - |
