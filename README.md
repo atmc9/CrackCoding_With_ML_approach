@@ -12,6 +12,7 @@ Summarizing the 30+ most common DS and Algorithm problems with Machine learning 
 | Job Sequencing Problem | Greedy | Sorting(based on Profit) + best fill the time slots with max profits | -  | - | - |
 | Fractional KnapSack Problem | Greedy | Sorting(based on Value/Weight) | -  | - | - |
 | Clone a linkedlist with next, random pointers | Choosing right DataStructure |-| HashTable - Finding Duplication | - | - |
+| Choose 1000 largest numbers from 1 Billion numbers| Choosing right DataStructure |-| Minheap - iteratively remove low number and add high number | - | - |
 | 0/1 KnapSack problem | Dynamic Programing | - | X - 0 to Capcity of Sack, Y - (Value, Weight)  | - | - |
 | Longest Common Sub-String | Dynamic Programing | - | X - stringA, Y - stringB | - | - |
 | Longest Common Sub-Sequence | Dynamic Programing | - | X - stringA, Y - stringB | - | - |
