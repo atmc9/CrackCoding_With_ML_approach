@@ -23,6 +23,7 @@ Summarizing the 30 most common DS and Algorithm problems with Machine learning a
 | 15| Longest Common Sub-Sequence | Dynamic Programing | - | X - stringA, Y - stringB | - | - |
 | 16| Finding if there exist a sum X of two elements from and array having positive and negative numbers | Greedy | New Array with X-A | - | - | - |
 | 17| LRU Implementation | -| - | - | - | - |
+| 18| Finding all nodes in a binary tree at distance-K from Node-N | -| - | - | - | - |
 
 
 
