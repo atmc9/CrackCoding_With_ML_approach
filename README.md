@@ -1,10 +1,10 @@
 # CrackCoding_With_ML_approach
-Summarizing the 30 most common DS and Algorithm problems with Machine learning approach and apply the inference on 10 new coding problems. 
+Summarizing the 30 most common DS and Algorithm problems with Machine learning approach and apply the inference on 10 new coding problems.
 
 
 ## Training Data
 
-| Sequence Num| Problem Statement   | algorithm technique | + agumented technique | Data structure | Runtime Complexity | Space Complexity | 
+| Sequence Num| Problem Statement   | algorithm technique | + agumented technique | Data structure | Runtime Complexity | Space Complexity |
 | ------------- |:-------------:|:-------------:| :-------------:| :-------------:| :-------------:| -----:|
 | 1| All Combinations of string 'abcd' | Greedy | Cummulative results | - | - | - |
 | 2| Running Median Problem | Greedy |- |MaxHeap for left half, MinHeap for right half | - | - |
@@ -20,7 +20,7 @@ Summarizing the 30 most common DS and Algorithm problems with Machine learning a
 | 12| Longest Common Sub-String | Dynamic Programing | - | X - stringA, Y - stringB | - | - |
 | 13| Longest Common Sub-Sequence | Dynamic Programing | - | X - stringA, Y - stringB | - | - |
 | 14| Traveling Salesman Problem| Dynamic Programing | - | X - stringA, Y - stringB | - | - |
-| 15| Longest Common Sub-Sequence | Dynamic Programing | - | X - stringA, Y - stringB | - | - |
+| 15| Optimal Binary Search Tree | Dynamic Programing | - | List of tuples of (value, frequency)| - | - |
 | 16| Finding if there exist a sum X of two elements from and array having positive and negative numbers | Greedy | New Array with X-A | - | - | - |
 | 17| LRU Implementation | -| - | - | - | - |
 | 18| Finding all nodes in a binary tree at distance-K from Node-N | -| - | - | - | - |
@@ -34,17 +34,15 @@ Summarizing the 30 most common DS and Algorithm problems with Machine learning a
 
 The problems we will be testing our inference:
 
-| Sequence Num| Problem Statement   | algorithm technique | + agumented technique | Data structure | Runtime Complexity | Space Complexity | 
+| Sequence Num| Problem Statement   | algorithm technique | + agumented technique | Data structure | Runtime Complexity | Space Complexity |
 | ------------- |:-------------:|:-------------:| :-------------:| :-------------:| :-------------:| -----:|
 | 1| Krushkal's Minimum Spanning Tree - MST | - | - | - | - | - |
 | 2| Single Source Shortest path | - | - | - | - | - |
 | 3| N - Queen problem | - | - | - | - | - |
 | 4| All Permutations of string 'aacb' | - | - | - | - | - |
 | 5| Topological Sort | - | - | - | - | - |
-| 6| Lowest Common Ancestor in a Binary Tree | - | - | - | - | - | 
-| 7| Stock Buy Sell to Maximize Profit | - | - | - | - | - | 
-| 8| Lowest Common Ancestor in a Binary Tree | - | - | - | - | - | 
-| 9| Maximum sum subarray from array having positive and negative numbers both| - | - | - | - | - | 
-| 10| Lowest Common Ancestor in a Binary Tree | - | - | - | - | - | 
-
-
+| 6| Lowest Common Ancestor in a Binary Tree | - | - | - | - | - |
+| 7| Stock Buy Sell to Maximize Profit | - | - | - | - | - |
+| 8| Lowest Common Ancestor in a Binary Tree | - | - | - | - | - |
+| 9| Maximum sum subarray from array having positive and negative numbers both| - | - | - | - | - |
+| 10| Lowest Common Ancestor in a Binary Tree | - | - | - | - | - |
